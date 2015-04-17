@@ -16,5 +16,6 @@ demo: http://www.jenaldesign.com/vertigo
 
 Options:
 
-play: true or false (Automatic slide)
-timer: Timer for each slide
+	play: true or false (Automatic slide)
+
+	timer: Timer for each slide
