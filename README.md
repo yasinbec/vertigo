@@ -7,8 +7,14 @@ demo: http://www.jenaldesign.com/vertigo
         $('#news').vertigo();     
     });
     
-    <ul id="news">
-		  <li>Anything</li>
-		  <li>Anything</li>
-		  <li>Anything</li>
-		</ul>
+	<ul id="news">
+		<li>Anything</li>
+		<li>Anything</li>
+		<li>Anything</li>
+	</ul>
+
+
+Options:
+
+play: true or false (Automatic slide)
+timer: Timer for each slide
