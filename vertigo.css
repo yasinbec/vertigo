@@ -1,0 +1,74 @@
+/*MenuPuncher v1.0.0 for jQuery
+=============
+Author: Ali Beceren
+Created: 2/14/2011
+Date: 10/08/2014
+Website: http://www.jenaldesign.com
+Description: Jenal Design
+*/
+
+html,body{
+	margin:0px;
+	padding:0px;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+#container{
+	width: 300px;
+	margin: 0 auto;
+}
+
+#news{
+	width: 300px;
+	margin: 0 auto;
+	margin-top:150px;
+}
+
+/* Vertigo Style Settings */
+
+.vertigo{
+
+	padding: 0;
+	margin: 0;
+	height:395px;
+	overflow: hidden;
+
+}
+
+.vertigo li{
+
+	list-style: none;
+	border-bottom:#ddd solid 1px;
+	padding: 15px 0px;
+	display: inline-block;
+	position: relative;
+
+}
+
+
+.vertigo li img{
+
+	float:left;
+	margin-right:10px;
+	
+}
+
+.vertigo li p{
+
+	margin:0px;
+	text-align: justify;
+	
+}
+
+.btn-pre, .btn-next{
+	text-decoration: none;
+	color:#FFF;
+	font-size:12px;
+	padding: 3px;
+}
+
+.btn-next{
+	float: right;
+}
+
+/* End Vertigo Style Settings */
